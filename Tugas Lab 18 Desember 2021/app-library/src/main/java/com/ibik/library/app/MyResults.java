@@ -2,8 +2,8 @@ package com.ibik.library.app;
 
 public class MyResults {
 	
-	Boolean Responce;
-	String Label;
+	private Boolean Responce;
+	private String Label;
 	
 	public Boolean getResponce() {
 		return Responce;
